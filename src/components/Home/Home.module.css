@@ -1,0 +1,11 @@
+.home {
+    margin-top: 100px;
+    text-align: center;
+    margin-inline: 300px;
+}
+
+.home h1 {
+    font-weight: bold;
+    color: grey;
+    padding-bottom: 50px;
+}

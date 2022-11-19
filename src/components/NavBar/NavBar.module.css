@@ -1,0 +1,20 @@
+.navbar {
+    background: blueviolet;
+}
+
+.navbar h1 {
+    color: white;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    cursor: pointer;
+}
+
+.navbar ul li {
+    margin-right: 20px;
+    padding-top: 15px;
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+}

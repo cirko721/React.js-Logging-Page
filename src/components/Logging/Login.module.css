@@ -1,0 +1,46 @@
+.form {
+    margin-inline: 350px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.mail {
+    color: rgb(97, 97, 97);
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.mail input {
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 3px;
+}
+
+.mail input:focus {
+    outline: none;
+    border-color: #4f005f;
+    background: #f6dbfc;
+  }
+
+.pass {
+    color: rgb(97, 97, 97);
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-align: left;
+    
+}
+
+.pass input:focus {
+    outline: none;
+    border-color: #4f005f;
+    background: #f6dbfc;
+}
+
+.pass input {
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 3px;
+}
